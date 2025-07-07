@@ -1,2 +1,3 @@
-# windows-security-internals-notes
-Notes, scripts, and commands from "Windows Security Internals" by James Forshaw
+# Windows Security Internals – Notes & Scripts
+
+This repository contains my personal notes, scripts, commands,... based on the book **"Windows Security Internals"** by James Forshaw.
